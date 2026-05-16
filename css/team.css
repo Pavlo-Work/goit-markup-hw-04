@@ -2,8 +2,8 @@
     background-color: #f4f4fd;
     padding: 120px 0;
 }
-.team h3,
-.team p {
+.team-person-name,
+.team-person-text {
     text-align: center;
 }
 .teamlist-item {
